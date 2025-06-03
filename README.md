@@ -18,7 +18,7 @@ This project is a simple blockchain implementation in Python, demonstrating core
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-blockchain-python.git
+   git clone https://github.com/jahanzaib-codes/simple-blockchain-python.git
    cd simple-blockchain-python
    ```
 2. Run the Python script to generate blockchain data:
@@ -83,4 +83,4 @@ Contributions are welcome! Please open an issue or submit a pull request with im
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For inquiries or collaboration opportunities, reach out via [your-email@example.com](mailto:your-email@example.com) or on GitHub.
+For inquiries or collaboration opportunities, reach out via jahanzaib.remotehub@gmail.com or on GitHub.
